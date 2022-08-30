@@ -5,15 +5,14 @@ import PropTypes from 'prop-types'
 function ShareIcon({ link, label, iconName }) {
   return (
     <a
-      className="mx-5"
+      className="mx-4 sm:mx-5"
       href={link}
       target="_blank"
       rel="noopener noreferrer"
       aria-label={label}
     >
       <GetIcons
-        style={{ color: '#333' }}
-        className="w-2rem h-2rem my-2rem cursor-pointer"
+        className={`w-2rem h-2rem my-2rem cursor-pointer share-icons share-${iconName}`}
         iconName={iconName}
         size={20}
       />

@@ -1,45 +1,45 @@
-## [0.59.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.59.0...v0.59.1) (2022-01-12)
+## [0.71.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.71.0...v0.71.1) (2022-08-29)
 
 
 ### Bug Fixes
 
-* Replace custom CSS with prime-react classes for Home/Users.js ([#944](https://github.com/EddieHubCommunity/LinkFree/issues/944)) ([f304d7e](https://github.com/EddieHubCommunity/LinkFree/commit/f304d7ee21e0c485bdd6a0181bcd3062ebd726fd))
+* github actions to be scoped ([#1685](https://github.com/EddieHubCommunity/LinkFree/issues/1685)) ([d625b94](https://github.com/EddieHubCommunity/LinkFree/commit/d625b94ef94367caaf6c578acb4c9eb6df4e5978))
 
 
 
-# [0.59.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.3...v0.59.0) (2022-01-10)
+# [0.71.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.20...v0.71.0) (2022-08-29)
 
 
 ### Features
 
-* filter by profile type ([#937](https://github.com/EddieHubCommunity/LinkFree/issues/937)) ([3db2c35](https://github.com/EddieHubCommunity/LinkFree/commit/3db2c357c0036bb23da1c59f28bf3a5e043254af))
+* kubescape action ([#1683](https://github.com/EddieHubCommunity/LinkFree/issues/1683)) ([4b780a4](https://github.com/EddieHubCommunity/LinkFree/commit/4b780a460e55452d4c53ca1bce37e7241b32bc91))
 
 
 
-## [0.58.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.2...v0.58.3) (2022-01-08)
-
-
-### Bug Fixes
-
-* improve  `avatar` section of README.md ([#930](https://github.com/EddieHubCommunity/LinkFree/issues/930)) ([e412074](https://github.com/EddieHubCommunity/LinkFree/commit/e4120748e6d1dc42201e48885fd62494ade9931e))
-
-
-
-## [0.58.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.1...v0.58.2) (2022-01-08)
+## [0.70.20](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.19...v0.70.20) (2022-08-29)
 
 
 ### Bug Fixes
 
-* improved the docs ([4d96088](https://github.com/EddieHubCommunity/LinkFree/commit/4d9608893c4bbfcd804b692c7df5caa6a671d4d9))
+* why is my profile not visible ([fd74662](https://github.com/EddieHubCommunity/LinkFree/commit/fd74662222fefcc7d5bcdd9c9e7b515eea1152aa))
 
 
 
-## [0.58.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.0...v0.58.1) (2022-01-07)
+## [0.70.19](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.18...v0.70.19) (2022-08-26)
 
 
 ### Bug Fixes
 
-* improve documentation ([#920](https://github.com/EddieHubCommunity/LinkFree/issues/920)) ([48a4f61](https://github.com/EddieHubCommunity/LinkFree/commit/48a4f6162123f890d10b296559cb52511663f64f))
+* Dockerfile npm command ([#1625](https://github.com/EddieHubCommunity/LinkFree/issues/1625)) ([c6eae67](https://github.com/EddieHubCommunity/LinkFree/commit/c6eae67f79813ae567b10c35071d3749423f2378))
+
+
+
+## [0.70.18](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.17...v0.70.18) (2022-08-19)
+
+
+### Bug Fixes
+
+* Added open-source icon ([#1599](https://github.com/EddieHubCommunity/LinkFree/issues/1599)) ([15d3163](https://github.com/EddieHubCommunity/LinkFree/commit/15d31634849647977280f3959c89180d2e2ba4ab))
 
 
 
